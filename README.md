@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Luisa, sou uma administradora e programadora.
+Meu nome é Luisa, sou uma administradora e programadora de 26 anos.😊
 Atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas. Sou muito apaixonada por Python, mas também sei de outras linguagens como a linguagem C (mais ou menos), HTML (é uma linguagem de MARCAÇÃO, não é de programação), SQL e tentando aprender JavaScript
+
+Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
+Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
+[![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)
