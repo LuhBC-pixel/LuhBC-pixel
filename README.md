@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Meu nome é Luisa, sou uma administradora e programadora.
+Atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas. Sou muito apaixonada por Python, mas também sei de outras linguagens como a linguagem C (mais ou menos), HTML (é uma linguagem de MARCAÇÃO, não é de programação), SQL e tentando aprender JavaScript
