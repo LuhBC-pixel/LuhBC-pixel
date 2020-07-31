@@ -20,4 +20,5 @@ Atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sist
 
 Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
 Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
-[![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)
+
+[![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)  [![Linkedin Badge](https://img.shields.io/badge/-luisa-boina-02294014b-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
