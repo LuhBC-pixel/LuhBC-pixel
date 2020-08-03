@@ -22,3 +22,6 @@ Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e so
 Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
 
 [![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)  [![Linkedin Badge](https://img.shields.io/badge/-luisaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
+
+Meu site:
+[Clique aqui para acessar o meu site](https://luhbc-pixel.github.io/Meu-perfil/)
