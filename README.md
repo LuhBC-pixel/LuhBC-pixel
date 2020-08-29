@@ -25,3 +25,5 @@ Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas�
 
 Meu site:
 [Clique aqui para acessar o meu site](https://luhbc-pixel.github.io/Meu-perfil/)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel)](https://github.com/anuraghazra/github-readme-stats)
