@@ -16,15 +16,21 @@ Here are some ideas to get you started:
 -->
 
 Meu nome é Luisa, sou uma administradora e programadora de 26 anos.😊
+<br>
 Atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas. 
+<br>
 Minha stack são: Python, C (mais ou menos), HTML (é uma linguagem de MARCAÇÃO, não é de programação), SQL, JavaScript, CSS, Node.js.
+<br>
 Estou aprendendo: TypeScript.
+<br>
 Posso te ajudar com: HTML, CSS, Python e Javascript.
 
 No momento, estou usando as tecnologias JavaScript, HTML, CSS, Node.js.
 
 Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
-Estou trabalhando atualmente na Microdata
+<br>
+Estou trabalhando atualmente na Microdata.
+<br>
 Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
 
 [![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)  [![Linkedin Badge](https://img.shields.io/badge/-luisaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
