@@ -30,7 +30,7 @@ Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas�
 [![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)  [![Linkedin Badge](https://img.shields.io/badge/-luisaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
 
 Meu site:
-[Clique aqui para acessar o meu site](https://meu-perfil.vercel.app/)
+[Clique aqui para acessar o meu site](https://meu-site-drab.vercel.app/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=tokyonight&show_icons=true)](https://github.com/LuhBC-pixel)
 <br />
