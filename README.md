@@ -23,7 +23,7 @@ Meu nome é Luisa.
 - 🤔 Estou procurando ajuda com Typescript, React-router, Terminal.
 - 💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
 - 📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
-- ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
+- ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
 
 Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
 
