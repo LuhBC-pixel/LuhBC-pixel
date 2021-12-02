@@ -34,4 +34,4 @@ Meu site:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=dark&show_icons=true)](https://github.com/LuhBC-pixel)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact)]((https://github.com/LuhBC-pixel))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact&theme=tokyonight)]((https://github.com/LuhBC-pixel))
