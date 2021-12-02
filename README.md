@@ -15,22 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Meu nome é Luisa, sou uma administradora e programadora de 26 anos.😊
-<br>
-Atualmente estou fazendo um curso técnico de Análise e Desenvolvimento de Sistemas. 
-<br>
-Minha stack são: Python, C (mais ou menos), HTML (é uma linguagem de MARCAÇÃO, não é de programação), SQL, JavaScript, CSS, Node.js.
-<br>
-Estou aprendendo: TypeScript.
-<br>
-Posso te ajudar com: HTML, CSS, Python e Javascript.
+Meu nome é Luisa.
 
-No momento, estou usando as tecnologias JavaScript, HTML, CSS, Node.js.
+- 🔭 Eu trabalho como Documentadora de Sistemas na Microdata
+- 🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
+- 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node.
+- 🤔 Estou procurando ajuda com Typescript, React-router, Terminal.
+- 💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
+- 📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
+- ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
 
-Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e outros afins.
-<br>
-Estou trabalhando atualmente na Microdata.
-<br>
 Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas👇
 
 [![Instagram Badge](https://img.shields.io/badge/-@luisaboina-8B008B?style=flat-square&labelColor=8B008B&logo=instagram&logoColor=white&link=https://twitter.com/sakshamtaneja00)](https://www.instagram.com/luisaboina/)  [![Linkedin Badge](https://img.shields.io/badge/-luisaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
@@ -39,3 +33,4 @@ Meu site:
 [Clique aqui para acessar o meu site](https://meu-perfil.vercel.app/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=dark&show_icons=true)](https://github.com/LuhBC-pixel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel)](https://github.com/anuraghazra/github-readme-stats)
