@@ -32,6 +32,6 @@ Para quem quiser ver meu perfil em outra rede social é só clicar em uma delas�
 Meu site:
 [Clique aqui para acessar o meu site](https://meu-perfil.vercel.app/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=dark&show_icons=true)](https://github.com/LuhBC-pixel)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=tokyonight&show_icons=true)](https://github.com/LuhBC-pixel)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact&theme=tokyonight)]((https://github.com/LuhBC-pixel))
