@@ -25,7 +25,7 @@ Meu nome é Luisa.
 - 📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
 - ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
 
-O meu perfil do linkedin 👇
+O meu perfil do linkedin:
 [![Linkedin Badge](https://img.shields.io/badge/-luisaboina-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luisa-boina-02294014b/)](https://www.linkedin.com/in/luisa-boina-02294014b/)
 
 Meu site:
