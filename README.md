@@ -31,6 +31,8 @@ O meu perfil do linkedin:
 Meu site:
 [Clique aqui para acessar o meu site](https://meu-site-drab.vercel.app/)
 
+<a href="https://app.daily.dev/luhbc"><img src="https://api.daily.dev/devcards/72506a66164746cc8b5cbd1d56edbf8b.png?r=9ef" width="400" alt="Luisa Boina Coltro's Dev Card"/></a>
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=tokyonight&show_icons=true)](https://github.com/LuhBC-pixel)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact&theme=tokyonight)]((https://github.com/LuhBC-pixel))
