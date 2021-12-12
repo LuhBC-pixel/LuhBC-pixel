@@ -33,3 +33,4 @@ Meu site:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=tokyonight&show_icons=true)](https://github.com/LuhBC-pixel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact&theme=tokyonight)]((https://github.com/LuhBC-pixel))
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
