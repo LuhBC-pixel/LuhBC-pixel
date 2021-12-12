@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 Meu nome é Luisa.
 
+<a href="https://app.daily.dev/luhbc"><img src="https://api.daily.dev/devcards/72506a66164746cc8b5cbd1d56edbf8b.png?r=9ef" width="256" align='right' alt="Luisa Boina Coltro's Dev Card"/></a>
+
 - 🔭 Eu trabalho como Documentadora de Sistemas na Microdata
 - 🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
 - 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node.
@@ -33,4 +35,3 @@ Meu site:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LuhBC-pixel&theme=tokyonight&show_icons=true)](https://github.com/LuhBC-pixel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luhbc-pixel&layout=compact&theme=tokyonight)]((https://github.com/LuhBC-pixel))
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
