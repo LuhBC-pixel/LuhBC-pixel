@@ -21,8 +21,8 @@ Meu nome é Luisa.
 
 - 🔭 Eu trabalho como Documentadora de Sistemas na Microdata
 - 🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
-- 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node.
-- 🤔 Estou procurando ajuda com Typescript, React-router, Terminal.
+- 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node, TypeScript.
+- 🤔 Estou procurando ajuda com UI/UX.
 - 💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
 - 📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
 - ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
