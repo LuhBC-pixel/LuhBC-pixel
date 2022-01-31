@@ -25,7 +25,7 @@ Meu nome é Luisa.
 - 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node, TypeScript.
 - 🤔 Estou procurando ajuda com UI/UX.
 - 💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
-- 📫 Para entrar em contato comigo no Linkedin ou mande uma mensagem pra mim no discord: *Luisa Bc#1291*. Clique no link e mande uma mensagem pra mim.
+- 📫 Para entrar em contato comigo no Linkedin ou mande uma mensagem pra mim no discord: *Luisa Bc#1291*
 - ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
 
 ## 🌐Socials
