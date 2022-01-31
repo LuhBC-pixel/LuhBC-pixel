@@ -20,13 +20,13 @@ Meu nome é Luisa.
 <a href="https://app.daily.dev/luhbc"><img src="https://api.daily.dev/devcards/72506a66164746cc8b5cbd1d56edbf8b.png?r=9ef" width="256" align='right' alt="Luisa Boina Coltro's Dev Card"/></a>
 
 # 💫About Me :
-🔭 Eu trabalho como Documentadora de Sistemas na Microdata
-🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
-👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node, TypeScript.
-🤔 Estou procurando ajuda com UI/UX.
-💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
-📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
-⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
+- 🔭 Eu trabalho como Documentadora de Sistemas na Microdata
+- 🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
+- 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node, TypeScript.
+- 🤔 Estou procurando ajuda com UI/UX.
+- 💬 Pode pergutar pra mim sobre a minha deficiência auditiva e sobre as stacks.
+- 📫 Para entrar em contato comigo: https://www.linkedin.com/in/luisa-boina-02294014b/. Clique no link e mande uma mensagem pra mim.
+- ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Luisa Bc#1291) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luisa Boina) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@luisaboina) 
