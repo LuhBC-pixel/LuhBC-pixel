@@ -28,6 +28,9 @@ Meu nome é Luisa.
 - 📫 Para entrar em contato comigo no Linkedin ou mande uma mensagem pra mim no discord: *Luisa Bc#1291*
 - ⚡ Fato sobre mim: Sou fanática por tecnologia e cultura geek, leio muitos livros de ficção e sobre a computação e gosto muito de de jogar CSGO e Portal2.
 
+## 💁Portofólio
+https://meu-site-drab.vercel.app/
+
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/channels/@me/714972149370060930/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luisa-boina-02294014b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@luisaboina) 
 
