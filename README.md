@@ -20,7 +20,7 @@ Meu nome é Luisa.
 <a href="https://app.daily.dev/luhbc"><img src="https://api.daily.dev/devcards/72506a66164746cc8b5cbd1d56edbf8b.png?r=9ef" width="256" align='right' alt="Luisa Boina Coltro's Dev Card"/></a>
 
 # 💫About Me :
-- 🔭 À procura de emprego...
+- 🔭 Desenvolvedora na Fiotec - uma fundação de apoio à Fiocruz
 - 🌱 Estou terminando a minha segunda graduação, o curso é Análise e Desenvolvimento de Sistemas.
 - 👯 Posso te ajudar com Javascript, HTML, CSS, React, NextJs, Material UI e Tailwind, Node, TypeScript.
 - 🤔 Estou procurando ajuda com UI/UX.
